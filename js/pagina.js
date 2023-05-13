@@ -21,11 +21,11 @@ function pepeGuama() {
     contenedor.appendChild(cuadro2)
 
     var cuadro3 = document.createElement("div")
-    var Niña = document.createElement("img")
-    Niña.style.width = "100%"
-    Niña.style.height = "100%"
-    Niña.src = "recursos/niña.jpg"
-    cuadro3.appendChild(Niña)
+    var Nina = document.createElement("img")
+    Nina.style.width = "100%"
+    Nina.style.height = "100%"
+    Nina.src = "recursos/nina.jpg"
+    cuadro3.appendChild(Nina)
     contenedor.appendChild(cuadro3)
 
     var cuadro4 = document.createElement("div")
