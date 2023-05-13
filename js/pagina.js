@@ -8,7 +8,7 @@ function pepeGuama() {
     var img1 = document.createElement("img")
     img1.style.width = "100%"
     img1.style.height = "100%"
-    img1.src = "/recursos/pesas-1-a-z.jpg"
+    img1.src = "recursos/pesas-1-a-z.jpg"
     cuadro1.appendChild(img1)
     contenedor.appendChild(cuadro1)
 
@@ -24,7 +24,7 @@ function pepeGuama() {
     var Niña = document.createElement("img")
     Niña.style.width = "100%"
     Niña.style.height = "100%"
-    Niña.src = "/recursos/niña.jpg"
+    Niña.src = "recursos/niña.jpg"
     cuadro3.appendChild(Niña)
     contenedor.appendChild(cuadro3)
 
@@ -32,7 +32,7 @@ function pepeGuama() {
     var Luffy = document.createElement("img")
     Luffy.style.width = "100%"
     Luffy.style.height = "100%"
-    Luffy.src = "/recursos/luffy.jpg"
+    Luffy.src = "recursos/luffy.jpg"
     cuadro4.appendChild(Luffy)
     contenedor.appendChild(cuadro4)
 
